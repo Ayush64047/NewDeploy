@@ -1,6 +1,6 @@
 {
-    "name": "LazyUrlHunterrBOT",
-    "description": "LazyUrlHunterrBOT",
+    "name": "AyushMdisk",
+    "description": "AyushMdisk",
     "keywords": [
         "telegram",
         "channel",
@@ -9,7 +9,7 @@
         "bot"
     ],
     "repository": "https://github.com/sigmamale007/AyushMdisk",
-    "website": "https://telegram.me/LazyDeveloper",
+    "website": "https://telegram.me/sigmamale007",
     "success_url": "https://telegram.me/AyushMdisk",
     "env": {
         "API_ID": {
