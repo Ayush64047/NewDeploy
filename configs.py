@@ -21,7 +21,7 @@ class Config(object):
         <a href='https://t.me/sigma_male_007'>❤️ PyroDeveloper ❤️</a>
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/blackest_harbour'>Mdisk Search Robot</a>
 
 📝 Language: <a href='https://www.python.org'>Python V3</a>
 
@@ -48,7 +48,7 @@ Don't be sad ! Your all urls are in safe Hand.
 
 »»» <b>Happy Hunting</b> «««
 
-🔺Thank You For Operating Me<a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
+🔺Thank You For Operating Me<a href='https://t.me/'>MdiskLinksSearchBot</a>🔺 </b>
 """
 
 
