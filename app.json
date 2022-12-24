@@ -8,9 +8,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/LazyDeveloperr/LazyUrlHunterrBOT",
+    "repository": "https://github.com/sigmamale007/AyushMdisk",
     "website": "https://telegram.me/LazyDeveloper",
-    "success_url": "https://telegram.me/LazyDeveloper",
+    "success_url": "https://telegram.me/AyushMdisk",
     "env": {
         "API_ID": {
             "description": "If you are new user then Get this value from my.telegram.org else get it from @TgApiextractorBot"
@@ -41,7 +41,7 @@
         },
         "UPDATES_CHANNEL": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -1001669443507",
-            "required": false
+            "required": true
         },
         "CHANNEL_ID": {
             "description": "Channel ID for Searching Messages.( same as Database Channel of LazyPrincessBOT )"
